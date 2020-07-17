@@ -2,8 +2,7 @@
 [![HitCount](http://hits.dwyl.com/winterlood/repo/winterlood.svg)](http://hits.dwyl.com/winterlood/repo/winterlood)  
 
 
-## 🌱 winterlood
-### 💻 React front-end developer
+## 💬 React front-end developer |  🐶자이너
 
 ✨ **DEVSTU** ✨: [**Korea devloper's community**](https://devstu.co.kr)
 <!--
