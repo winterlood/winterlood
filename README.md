@@ -1,8 +1,8 @@
 
 [![HitCount](http://hits.dwyl.com/winterlood/repo/winterlood.svg)](http://hits.dwyl.com/winterlood/repo/winterlood)  
 
-
-## 💬 React front-end developer |  🐶자이너
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=winterlood)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterlood&hide=jupyter%20notebook)](https://github.com/minkukjo/github-readme-stats)
 
 ✨ **DEVSTU** ✨: [**Korea devloper's community**](https://devstu.co.kr)
 <!--
