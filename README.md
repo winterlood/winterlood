@@ -1,8 +1,7 @@
 
 [![HitCount](http://hits.dwyl.com/winterlood/repo/winterlood.svg)](http://hits.dwyl.com/winterlood/repo/winterlood)  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=winterlood)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterlood&hide=jupyter%20notebook)](https://github.com/minkukjo/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=winterlood&theme=highcontrast&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 ✨ **DEVSTU** ✨: [**Korea devloper's community**](https://devstu.co.kr)
 <!--
