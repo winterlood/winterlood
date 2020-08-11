@@ -3,7 +3,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=winterlood&theme=highcontrast&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-**🌎 My Blog** : [**DEVSTU 블로그y**](https://blog.naver.com/king1997)
+**🌎 My Blog** : [**DEVSTU 블로그**](https://blog.naver.com/king1997)  
 **🌎 DEVSTU** : [**Korea devloper's community**](https://devstu.co.kr)
 <!--
 **sg05138/sg05138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
