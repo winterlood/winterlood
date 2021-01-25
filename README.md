@@ -2,7 +2,6 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=winterlood)](https://solved.ac/winterlood)
 
 
-**🌎 My Blog** : [**DEVSTU 블로그**](https://blog.naver.com/king1997)  
 **🌎 DEVSTU** : [**Korea devloper's community**](https://devstu.co.kr)
 <!--
 **sg05138/sg05138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
