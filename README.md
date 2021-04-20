@@ -10,4 +10,4 @@
 - 🏹 [Developer Console](https://play.google.com/store/apps/details?id=com.developer_console) : 개발자 콘솔 바로가기 서비스
 
 ### Foot Print
--  [CCPC2019](https://ccpc2019.github.io/) : 2019년도 가톨릭대학교 프로그래밍 대회 주최
+- ⚔️ [CCPC2019](https://ccpc2019.github.io/) : 2019년도 가톨릭대학교 프로그래밍 대회 주최
