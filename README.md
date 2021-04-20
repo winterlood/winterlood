@@ -1,4 +1,4 @@
-> 개발자를 위해 개발하는 개발자입니다.\n
+> 개발자를 위해 개발하는 개발자입니다.\
 > Typescript, Next.js, ReactNative를 즐겁게 합니다.
 
 
