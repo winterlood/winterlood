@@ -1,6 +1,7 @@
 > 개발자를 위해 개발하는 개발자입니다.\
 > Typescript, Next.js, ReactNative를 즐겁게 합니다.
 
+![](https://readme-stickers.vercel.app/api/korean-developer?name=%EC%9D%B4%EC%A0%95%ED%99%98)
 
 ### Projects (Web)
 - 💻 [DEVSTU](https://devstu.co.kr/) : 공유와 협력 문화를 장려하기위한 IT 오픈소스 커뮤니티
