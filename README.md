@@ -10,7 +10,7 @@
 - 🍒 [Cherry Pick IT](https://play.google.com/store/apps/details?id=com.cherrypick_it) : IT 뉴스 에그리게이팅 서비스
 - 🏹 [Developer Console](https://play.google.com/store/apps/details?id=com.developer_console) : 개발자 콘솔 바로가기 서비스
 
-### Foot Print
+### Footprint
 - ⚔️ [CCPC2019](https://ccpc2019.github.io/) : 2019년도 가톨릭대학교 프로그래밍 대회 주최
 - 🔥  가톨릭대학교 컴퓨터정보 공학부 학회 FAN 회장
 - 🔎 가톨릭대학교 알고리즘 연구실 학부 연구원 2년 (2019.02 ~ 2021.02)
