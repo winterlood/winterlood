@@ -3,8 +3,9 @@
 
 ![](https://readme-stickers.vercel.app/api/kodeveloper?name=%EC%9D%B4%EC%A0%95%ED%99%98)
 
-### Projects (du)
-- 👨‍🎓 Udemy React.js 강사
+### Projects (Edu)
+- 👨‍🎓 Udemy React.js 강사(강의 준비 中)
+- [코딩하는 이선생](https://www.youtube.com/channel/UCn7yFtl60fQsRtEaoyuzFUg) : IT 정보 전달 유튜브_
 
 ### Projects (Web)
 - 💻 [DEVSTU](https://devstu.co.kr/) : 공유와 협력 문화를 장려하기위한 IT 오픈소스 커뮤니티
