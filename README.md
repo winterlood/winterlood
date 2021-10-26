@@ -16,6 +16,11 @@
 - 🍒 [Cherry Pick IT](https://play.google.com/store/apps/details?id=com.cherrypick_it) : IT 뉴스 에그리게이팅 서비스
 - 🏹 [Developer Console](https://play.google.com/store/apps/details?id=com.developer_console) : 개발자 콘솔 바로가기 서비스
 
+### Projects (Archived)
+- ✔ [Shortcut](https://play.google.com/store/apps/details?id=com.jeonghwan.flutterexam.flutter_example) : 설치된 어플리케이션 관리 서비스
+- ✔ [도로신설소식](https://play.google.com/store/apps/details?id=com.roadconstruct) : 대한민국 도로 신설 공사 관련 소식 제공 서비스
+
+
 ### Footprint
 - ⚔️ [CCPC2019](https://ccpc2019.github.io/) : 2019년도 가톨릭대학교 프로그래밍 대회 주최
 - 🔥  가톨릭대학교 컴퓨터정보 공학부 학회 FAN 회장
