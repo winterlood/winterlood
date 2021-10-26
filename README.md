@@ -3,7 +3,7 @@
 
 ![](https://readme-stickers.vercel.app/api/kodeveloper?name=%EC%9D%B4%EC%A0%95%ED%99%98)
 
-### Projects (edu)
+### Projects (du)
 - 👨‍🎓 Udemy React.js 강사
 
 ### Projects (Web)
