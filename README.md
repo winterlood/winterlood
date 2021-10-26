@@ -3,8 +3,12 @@
 
 ![](https://readme-stickers.vercel.app/api/kodeveloper?name=%EC%9D%B4%EC%A0%95%ED%99%98)
 
+### Projects (edu)
+- 👨‍🎓 Udemy React.js 강사
+
 ### Projects (Web)
 - 💻 [DEVSTU](https://devstu.co.kr/) : 공유와 협력 문화를 장려하기위한 IT 오픈소스 커뮤니티
+- 💻 [DDBA](https://ddba.or.kr/) : 대덕바이블 아카데미 온라인 강의 웹사이트
 
 ### Projects (App)
 - 🍒 [Cherry Pick IT](https://play.google.com/store/apps/details?id=com.cherrypick_it) : IT 뉴스 에그리게이팅 서비스
