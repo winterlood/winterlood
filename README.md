@@ -5,7 +5,7 @@
 ![](https://readme-stickers.vercel.app/api/kodeveloper?name=%EC%9D%B4%EC%A0%95%ED%99%98)
 
 ### Projects (Edu)
-- 👨‍🎓 Udemy React.js 강사(강의 준비 中)
+- 👨‍🎓 [한 입 크기로 잘라먹는 React.js](https://www.udemy.com/course/winterlood-react-basic/?referralCode=CB775FCF68FAC7B4BF4C) : Udemy React.js 강사
 - [코딩하는 이선생](https://www.youtube.com/channel/UCn7yFtl60fQsRtEaoyuzFUg) : IT 정보 전달 유튜브
 
 ### Projects (Web)
