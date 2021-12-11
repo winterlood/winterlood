@@ -1,3 +1,5 @@
+[![썸네일](https://user-images.githubusercontent.com/46296754/145671738-916784ea-ef0b-4445-b989-83404e4ab495.png)](https://www.udemy.com/course/winterlood-react-basic/?referralCode=CB775FCF68FAC7B4BF4C)
+
 > 개발자를 위해 개발하는 개발자입니다.\
 > Typescript, Next.js, ReactNative를 즐겁게 합니다.
 
