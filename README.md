@@ -7,7 +7,9 @@
 ![](https://readme-stickers.vercel.app/api/kodeveloper?name=%EC%9D%B4%EC%A0%95%ED%99%98)
 
 ### Projects (Edu)
-- 👨‍🎓 [한 입 크기로 잘라먹는 React.js](https://www.udemy.com/course/winterlood-react-basic/?referralCode=CB775FCF68FAC7B4BF4C) : Udemy React.js 강사
+- 👨‍🎓 [OKKY 월간 세미나 : React가 처음인 당신](https://www.youtube.com/watch?v=mfzRXKUQCvY)
+- 👨‍🎓 [한 입 크기로 잘라먹는 React.js : 인프런](https://www.inflearn.com/course/한입-리액트?inst=99ba74ca)
+- 👨‍🎓 [한 입 크기로 잘라먹는 React.js : Udemy](https://www.udemy.com/course/winterlood-react-basic/?referralCode=CB775FCF68FAC7B4BF4C)
 - [코딩하는 이선생](https://www.youtube.com/channel/UCn7yFtl60fQsRtEaoyuzFUg) : IT 정보 전달 유튜브
 
 ### Projects (Web)
