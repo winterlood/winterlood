@@ -1,5 +1,7 @@
 [![썸네일](https://user-images.githubusercontent.com/46296754/145671738-916784ea-ef0b-4445-b989-83404e4ab495.png)](https://www.udemy.com/course/winterlood-react-basic/?referralCode=CB775FCF68FAC7B4BF4C)
 
+[![](https://velog-readme-stats.vercel.app/api?name=winterlood)](https://velog.io/@winterlood/%EC%A0%95%EB%B3%B4%EC%9D%98-%ED%99%8D%EC%88%98%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%82%B4%EC%95%84%EA%B0%80%EA%B8%B0-%EC%9C%84%ED%95%B4)
+
 > 개발자를 위해 개발하는 개발자입니다.\
 > Typescript, Next.js, ReactNative를 즐겁게 합니다.
 
