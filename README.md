@@ -19,7 +19,3 @@
 
 ### 📚 Books
 - [한 입 크기로 잘라먹는 리액트](https://product.kyobobook.co.kr/detail/S000201352991)
-
-
-<a href="https://opgc.me/#/users/winterlood" target="_blank"><img src="https://api.opgc.me/githubs/users/winterlood/tag/?theme=basic" /></a>
-
